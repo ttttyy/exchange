@@ -1,4 +1,4 @@
-package bexchange
+/*package bexchange
 
 import (
     "testing"
@@ -118,3 +118,5 @@ func TestPerf(t *testing.T) {
     doPerfTest(1000000, 5000, 10, 50)
     doPerfTest(1000000, 5000, 1000, 5000)
 }
+
+ */
